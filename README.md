@@ -1,4 +1,6 @@
 ### Hi there 👋
+Hello world, I'm Soleilhac bastien a french developer!
+### About me
 - 🔭 I’m currently working on nothung
 - 🌱 I’m currently learning computer science at university
 - 😄 Pronouns: Bob
