@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on nothung
+- 🌱 I’m currently learning computer science at university
+- 😄 Pronouns: Bob
+- ⚡ Fun fact: Professional in programming on paper
 <!--
 **BobVentron/BobVentron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
