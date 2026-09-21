@@ -6,7 +6,7 @@ Hello world, I'm Soleilhac bastien a french developer!
 - 😄 Pronouns: Bob
 - ⚡ Fun fact: Professional in programming on paper
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BobVentron&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=BobVentron&layout=compact&langs_count=10&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=BobVentrona&layout=compact&langs_count=10&theme=transparent)
 <!--
 **BobVentron/BobVentron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
